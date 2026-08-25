@@ -1,0 +1,6 @@
+{
+  "name": "Sacred Heart Academy Portal",
+  "description": "Institutional promotional website and comprehensive School Management Portal for Sacred Heart Academy (Garchitorena, Camarines Sur) with role-based login, DepEd grading, timetables, admissions, and communications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
